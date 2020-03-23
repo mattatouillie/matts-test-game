@@ -2,7 +2,8 @@
     "name": "matt's test game",
     "dependencies": {
         "device": "*",
-        "animation": "*"
+        "animation": "*",
+        "palette": "*"
     },
     "description": "",
     "files": [
